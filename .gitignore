@@ -1,3 +1,8 @@
 target
 .settings
 .classpath
+/.factorypath
+/.project
+/.springBeans
+.apt_generated_tests
+.apt_generated
